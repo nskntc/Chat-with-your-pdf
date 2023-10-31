@@ -3,7 +3,7 @@ import { MaxWidthWrapper } from "./MaxWidthWrapper"
 import { buttonVariants } from "./ui/button"
 import { LoginLink } from "@kinde-oss/kinde-auth-nextjs/server"
 import { RegisterLink } from "@kinde-oss/kinde-auth-nextjs/server"
-import { ArrowLeft, ArrowRight } from "lucide-react"
+import { ArrowRight } from "lucide-react"
 
 export const NavBar = () => {
     return(
