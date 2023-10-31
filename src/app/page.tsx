@@ -94,7 +94,7 @@ export default function Home() {
               </span>
               <span className='mt-2 text-zinc-700'>
                 Either starting out with a free plan or
-                choose our{' '}
+                choose our&nbsp;
                 <Link
                   href='/pricing'
                   className='text-blue-700 underline underline-offset-2'>
